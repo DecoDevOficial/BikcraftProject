@@ -45,7 +45,7 @@ O ponto de partida para início do projeto foi um desafio feito pelo professor [
 
 <details>
 <summary>Media querry</summary>
-<p>Para trazer responsividade ao site, além de elementos como ":hover", utilizei o @media para definir um ponto de quebra e alterar o layout do site caso o dispositivo seja menos que determinado tamanho.</p>
+<p>Para trazer responsividade ao site, além de elementos como ":hover", utilizei o @media para definir um ponto de quebra e alterar o layout do site caso o dispositivo seja menor que determinado tamanho.</p>
 </details>
 
 ##
